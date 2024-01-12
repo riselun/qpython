@@ -96,6 +96,9 @@ ext {
     compileSdkVersion = 28
     buildToolsVersion = '28.0.3'
 
+    ndkVersion = "22.1.7171670"
+
+
     // firebase related https://firebase.google.com/docs/android/setup
     firebaseCore = "com.google.firebase:firebase-core:16.0.6"
     firebaseMsg = "com.google.firebase:firebase-messaging:17.3.4"
